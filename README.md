@@ -1,3 +1,3 @@
 # EduStory
 
-Interactief geanimeerd avontuur over de geschiedenis van de Hanzesteden. De speler leert door verschillende minigames over het leven aan boord van een handelsschip. Gemaakt als eindopdracht voor de CodeGorilla bootcamp 2018.
+Interactive educational adventure about the Hanseatic league. Through various minigames the player learns about life on a commercial ship in the 14th century. Made during CodeGorilla bootcamp 2018.
